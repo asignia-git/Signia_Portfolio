@@ -29,3 +29,10 @@ Learn basic Linux navigation and file management while documenting my learning p
 One thing I enjoyed about this project was discovering there are often multiple ways to accomplish the same task in Linux. 
 I initially struggled with editing text files, but researching `echo` and `nano` 
 helped me understand different approaches and taught me how to use Linux manual pages more effectively.
+
+
+## More to Explore
+- How do Linux permissions work?
+- I still want to learn grep.
+- I still need to understand find.
+- I'd like to automate some of these tasks with Bash.
