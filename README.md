@@ -6,13 +6,16 @@ This repository documents my hands-on learning journey. Rather than only present
 
 Current projects include:
 
-Linux Fundamentals
-Windows Event Viewer Investigation
-(Upcoming) Wireshark Traffic Analysis
-(Upcoming) PowerShell Basics
-(Upcoming) Windows Firewall
-(Upcoming) WireGuard VPN
-(Upcoming) Active Directory
+| Project              | Status        | Skills                                 |
+| -------------------- | ------------- | -------------------------------------- |
+| Linux Fundamentals   | ✅ In Progress | Linux, Bash, File System               |
+| Windows Event Viewer | ✅ Complete    | Windows Logs, Event IDs, Investigation |
+| Wireshark Analysis   | ⏳ Planned     | Network Analysis                       |
+| PowerShell Basics    | ⏳ Planned     | Scripting                              |
+| Windows Firewall     | ⏳ Planned     | Host Security                          |
+| WireGuard VPN        | ⏳ Planned     | Networking                             |
+| Active Directory     | ⏳ Planned     | Identity Management                    |
+
 ---
 
 ## 🔐 Certifications
