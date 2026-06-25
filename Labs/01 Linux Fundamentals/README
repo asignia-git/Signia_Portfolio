@@ -1,0 +1,31 @@
+# Linux Fundamentals Investigation
+
+## Goal
+
+Learn basic Linux navigation and file management while documenting my learning process.
+
+## Skills Practiced
+
+- Linux Terminal
+- File Navigation
+- Directory Management
+- Basic Text Editing
+- Command Documentation
+
+## Questions Explored
+
+- What does pwd do?
+- How do I navigate Linux?
+- How do I create and edit files?
+- What is the difference between echo and nano?
+
+## Project Files
+
+- Linux_Fundamentals.pdf
+- screenshots/
+
+## Reflection
+
+One thing I enjoyed about this project was discovering there are often multiple ways to accomplish the same task in Linux. 
+I initially struggled with editing text files, but researching `echo` and `nano` 
+helped me understand different approaches and taught me how to use Linux manual pages more effectively.
