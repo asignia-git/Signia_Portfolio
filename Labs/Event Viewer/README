@@ -29,7 +29,7 @@ I was pleased to see that a lot of questions I had were answered upon clicking i
 Information such as what an ID meant, who requested it, when etc. I also think that an enterprise 
 environment will have considerably more, so I am grateful for that information.
 
-## Future Investigation
+## More to Explore
 - Explore all 13 Windows logon types.
 - Enable Process Creation auditing.
 - Learn more about OpenSSH logs.
