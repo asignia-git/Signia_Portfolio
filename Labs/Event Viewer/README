@@ -1,0 +1,36 @@
+# Windows Event Viewer Investigation
+
+## Goal
+
+Learn how Windows records authentication events and how analysts investigate them.
+
+## Skills Practiced
+
+- Windows Event Viewer
+- Event IDs
+- Authentication Logs
+- Log Correlation
+- Basic Investigation
+
+## What I Learned
+
+- Difference between Event IDs 5379 and 5382
+- How SYSTEM accounts differ from user accounts
+- Why I wasn't seeing Event ID 4688
+- How to verify Windows audit policies
+
+## Project Files
+
+- Event_Viewer.pdf
+- screenshots
+
+## Reflection
+I was pleased to see that a lot of questions I had were answered upon clicking into each ID. 
+Information such as what an ID meant, who requested it, when etc. I also think that an enterprise 
+environment will have considerably more, so I am grateful for that information.
+
+## Future Investigation
+- Explore all 13 Windows logon types.
+- Enable Process Creation auditing.
+- Learn more about OpenSSH logs.
+- Investigate Event ID 4688 once auditing is enabled.
