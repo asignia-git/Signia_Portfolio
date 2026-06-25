@@ -1,7 +1,18 @@
 # Allyra Signia – Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. This repository showcases my certifications, hands-on labs, and training as I pursue an entry-level SOC Analyst role.
+Welcome! I'm a CompTIA Security+ and Network+ certified professional transitioning into cybersecurity after a background in operations, compliance, and leadership.
 
+This repository documents my hands-on learning journey. Rather than only presenting polished results, I document my investigation process, questions, mistakes, and conclusions to demonstrate how I approach unfamiliar technologies and solve problems.
+
+Current projects include:
+
+Linux Fundamentals
+Windows Event Viewer Investigation
+(Upcoming) Wireshark Traffic Analysis
+(Upcoming) PowerShell Basics
+(Upcoming) Windows Firewall
+(Upcoming) WireGuard VPN
+(Upcoming) Active Directory
 ---
 
 ## 🔐 Certifications
