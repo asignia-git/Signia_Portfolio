@@ -1,0 +1,39 @@
+# Wireshark Network Traffic Investigation
+
+## Goal
+
+Learn how network traffic is generated, captured, and analyzed using Wireshark by investigating 
+the communication that occurs when visiting common websites.
+
+## Skills Practiced
+
+- Wireshark
+- Packet Capture
+- DNS Analysis
+- TCP/IP
+- TLS/HTTPS
+- HTTP
+- IPv6
+- Packet Filtering
+
+## What I Learned
+
+- How DNS queries resolve domain names to IPv6 addresses using AAAA records
+- The difference between well-known ports and ephemeral ports
+- How TCP and TLS work together to establish secure web connections
+- Why Certificate Revocation Lists (CRLs) may be delivered over HTTP
+- How to reconstruct a basic timeline of network activity using packet captures
+
+## Project Files
+
+- 3-Wireshark.pdf
+
+## Reflection
+I was amazed to see how much traffic was generated just from opening three websites. The back and forth is done so quickly, 
+its incredible. I was also interested to see that I had any HTTP traffic, but it showed me something new about CRLs. 
+Live and learn!
+
+
+## More to Explore
+- Look into what part of the traffic flow used UDP.
+- See what sending an email or instant message looks like.
