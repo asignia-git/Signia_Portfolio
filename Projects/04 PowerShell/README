@@ -1,1 +1,41 @@
+# PowerShell Investigation
 
+## Goal
+
+Learn basic PowerShell navigation, file management, and how PowerShell can be used to investigate Windows systems.
+
+## Skills Practiced
+
+- PowerShell
+- Windows Administration
+- File Management
+- Process Investigation
+- Event Log Analysis
+- Network Connections
+- Command Line Navigation
+
+## What I Learned
+
+- How to navigate directories using PowerShell cmdlets.
+- How to create, modify, and read files from the command line.
+- How to view running processes, active network connections, and Windows Event Logs.
+- The difference between relative and absolute file paths.
+- That PowerShell supports Linux-style aliases (such as `ls`, `cd`, and `pwd`), although I intentionally used the full PowerShell cmdlets throughout this project.
+
+## Project Files
+
+- 4-PowerShell.pdf
+
+## Reflection
+
+PowerShell was different than I expected. I originally approached it like Linux, trying to learn navigation commands first, but quickly 
+realized that PowerShell is much more useful as a way to ask Windows questions than simply move around the file system. One of the 
+biggest lessons I learned was the importance of syntax, especially when working with file paths. Creating my own sandbox folder also made 
+the project much easier to understand than working directly inside the System32 directory.
+
+## More to Explore
+
+- Learn basic PowerShell scripting.
+- Filter Event Logs using PowerShell.
+- Export command output to text files.
+- Automate simple administrative tasks.
