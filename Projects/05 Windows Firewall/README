@@ -1,0 +1,43 @@
+# Windows Firewall Investigation
+
+## Goal
+
+Learn how Windows Defender Firewall controls network traffic by exploring existing firewall rules, creating custom rules, and verifying how those rules affect network communication.
+
+## Skills Practiced
+
+- Windows Defender Firewall
+- Firewall Rule Analysis
+- Network Profiles
+- ICMP
+- Connectivity Testing
+- Troubleshooting
+
+## What I Learned
+
+- The difference between inbound and outbound firewall rules.
+- How Windows Firewall organizes rules by Public, Private, Domain, and All network profiles.
+- Why applications often have multiple firewall rules (TCP, UDP, and different profiles).
+- How to create, test, disable, and remove a custom firewall rule.
+- How firewall profiles affect whether a rule is applied.
+- How to verify firewall changes using `ping`.
+
+## Project Files
+
+- 5-Windows Firewall.pdf
+
+## Reflection
+
+This project helped me understand that Windows Firewall is much more than simply allowing or blocking programs. I 
+learned how rules are organized, why applications can have multiple rules, and how network profiles determine when 
+a rule is applied. One of the biggest lessons came from troubleshooting my own test rule. At first it appeared that 
+my ICMP rule wasn't working, but after investigating I realized my rule only applied to the Private profile while 
+my network was using the Public profile. Updating the rule fixed the problem and reinforced the importance of testing 
+and troubleshooting rather than assuming a configuration is correct.
+
+## More to Explore
+
+- Create rules using specific ports instead of protocols.
+- Explore outbound firewall rules in more detail.
+- Learn how Windows Firewall integrates with Windows Defender.
+- Use PowerShell to view and manage firewall rules.
