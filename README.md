@@ -8,11 +8,11 @@ Current projects include:
 
 | Project              | Status        | Skills                                 |
 | -------------------- | ------------- | -------------------------------------- |
-| Linux Fundamentals   | ✅ In Progress | Linux, Bash, File System               |
+| Linux Fundamentals   | ✅ Complete  | Linux, Bash, File System               |
 | Windows Event Viewer | ✅ Complete    | Windows Logs, Event IDs, Investigation |
-| Wireshark Analysis   | ⏳ Planned     | Network Analysis                       |
-| PowerShell Basics    | ⏳ Planned     | Scripting                              |
-| Windows Firewall     | ⏳ Planned     | Host Security                          |
+| Wireshark Analysis   | ✅ Complete     | Network Analysis                       |
+| PowerShell Basics    | ✅ Complete      | Scripting                              |
+| Windows Firewall     | ✅ Complete     | Host Security                          |
 | WireGuard VPN        | ⏳ Planned     | Networking                             |
 | Active Directory     | ⏳ Planned     | Identity Management                    |
 
