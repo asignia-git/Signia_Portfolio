@@ -4,20 +4,6 @@ Welcome! I'm a CompTIA Security+ and Network+ certified professional transitioni
 
 This repository documents my hands-on learning journey. Rather than only presenting polished results, I document my investigation process, questions, mistakes, and conclusions to demonstrate how I approach unfamiliar technologies and solve problems.
 
-Current projects include:
-
-| Project              | Status        | Skills                                 |
-| -------------------- | ------------- | -------------------------------------- |
-| Linux Fundamentals   | ✅ Complete  | Linux, Bash, File System               |
-| Windows Event Viewer | ✅ Complete    | Windows Logs, Event IDs, Investigation |
-| Wireshark Analysis   | ✅ Complete     | Network Analysis                       |
-| PowerShell Basics    | ✅ Complete      | Scripting                              |
-| Windows Firewall     | ✅ Complete     | Host Security                          |
-| WireGuard VPN        | ⏳ Planned     | Networking                             |
-| Active Directory     | ⏳ Planned     | Identity Management                    |
-
----
-
 ## 🔐 Certifications
 - CompTIA Security+ (2026)
 - CompTIA Network+ (2026)
@@ -25,7 +11,65 @@ Current projects include:
 
 ---
 
-
 ## 📫 Contact
 - Email: Allyra.Staubin@gmail.com
 - LinkedIn: www.linkedin.com/in/allyra-signia-760121231
+
+---
+
+Current projects include:
+# Current Progress
+
+## 🧪 Investigation Projects
+
+| Project | Status | Skills |
+|----------|--------|--------|
+| Linux Fundamentals | ✅ Complete | Linux, Bash, File System |
+| Windows Event Viewer | ✅ Complete | Windows Logs, Event IDs, Investigation |
+| Wireshark Analysis | ✅ Complete | Network Analysis, DNS, TCP/IP |
+| PowerShell Basics | ✅ Complete | PowerShell, Windows Administration |
+| Windows Firewall | ✅ Complete | Host Security, Firewall Rules |
+| Active Directory | ⏳ Planned | Identity Management, Authentication |
+| WireGuard VPN | ⏳ Planned | VPN, Networking, Encryption |
+| Nessus Essentials | ⏳ Planned | Vulnerability Management |
+| Microsoft Defender | ⏳ Planned | Endpoint Detection & Response |
+| Microsoft Sentinel | ⏳ Planned | SIEM, Log Analysis |
+
+---
+
+## 🛠 Tool Familiarization
+
+| Tool | Status | Focus |
+|------|--------|-------|
+| Jira | ⏳ Planned | Ticket Management |
+| ServiceNow | ⏳ Planned | Incident Management |
+| CrowdStrike Falcon | ⏳ Planned | Endpoint Detection |
+| Microsoft Defender Portal | ⏳ Planned | Alert Investigation |
+| Okta | ⏳ Planned | Identity & MFA |
+| CyberArk | ⏳ Planned | Privileged Access Management |
+| Huntress | ⏳ Planned | Managed Detection |
+| Cynet | ⏳ Planned | XDR |
+| Splunk / Wazuh | ⏳ Planned | SIEM |
+
+---
+
+## 🎯 Challenge Labs
+
+| Platform | Status | Goal |
+|----------|--------|------|
+| TryHackMe | 🔄 In Progress | Security Fundamentals |
+| Blue Team Labs Online (BTLO) | ⏳ Planned | SOC Scenarios |
+| OverTheWire | 🔄 In Progress | Linux & Security Challenges |
+
+---
+
+## 📋 Governance & Frameworks
+
+| Assessment | Status | Focus |
+|------------|--------|------|
+| CIS Controls Assessment | ⏳ Planned | Security Controls |
+| ISO 27001 Mini Audit | ⏳ Planned | Information Security Management |
+| NIST CSF Home Assessment | ⏳ Planned | Risk & Security Posture |
+| FAIR Risk Assessment | ⏳ Planned | Quantitative Risk Analysis |
+
+---
