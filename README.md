@@ -73,3 +73,28 @@ Current projects include:
 | FAIR Risk Assessment | ⏳ Planned | Quantitative Risk Analysis |
 
 ---
+
+## 🤖 AI for Cybersecurity
+
+| Project | Status | Skills |
+|----------|--------|--------|
+| Prompt Engineering | ⏳ Planned | Prompt Design, AI Workflow |
+| Security Research with AI | ⏳ Planned | Verification, Source Validation |
+| AI-Assisted Log Analysis | ⏳ Planned | Windows Logs, Investigation |
+| AI-Assisted PowerShell | ⏳ Planned | Scripting, Automation |
+| AI-Assisted Incident Reports | ⏳ Planned | Technical Writing |
+| Building a Security GPT | ⏳ Planned | Custom Instructions, Knowledge Management |
+
+---
+
+## Capstone Goals
+
+Windows Endpoint Investigation
+Use Event Viewer, PowerShell, Defender, Firewall and AI to investigate suspicious activity and produce an incident report.
+
+Small Business Security Assessment
+Assess a fictional 25-person company using NIST CSF, FAIR, CIS Controls and vulnerability scanning.
+
+SOC Analyst Simulation
+Investigate multiple alerts using Sentinel, Defender, Wireshark, PowerShell and document the complete investigation.
+
