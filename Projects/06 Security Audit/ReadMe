@@ -1,5 +1,93 @@
-This was a case study completed as part of the google cybersecurity professional certificate. 
+# Security Audit: Controls & Compliance Assessment
 
-Scenario
+## Goal
 
-Update!
+The goal of this project was to evaluate the security controls and compliance posture of a fictional organization, Botium Toys.
+
+Using a provided scope, goals, and risk assessment report, I reviewed the organization's existing security controls, 
+identified areas where controls were missing or insufficient, evaluated compliance considerations, and provided recommendations for improving the organization's security posture.
+
+This project was completed as part of the Google Cybersecurity Professional Certificate.
+
+## Skills Practiced
+
+- Security controls assessment
+- Compliance analysis
+- Identifying control gaps
+- Security recommendations
+- Risk-based decision making
+- Principle of least privilege
+- Separation of duties
+- PCI DSS compliance concepts
+- GDPR compliance concepts
+- SOC compliance concepts
+- Security documentation
+
+## Assessment Approach
+
+I reviewed the provided scope and risk assessment to understand the organization's assets, existing security practices, and identified areas of risk.
+
+Using that information, I:
+
+1. Evaluated whether key administrative, technical, and physical controls were present.
+2. Identified control gaps based on the organization's documented security posture.
+3. Reviewed the environment against relevant PCI DSS, GDPR, and SOC considerations.
+4. Developed recommendations for controls that could reduce the identified risks and improve the organization's overall security posture.
+
+## What I Learned
+
+This project helped me understand how a security audit uses information about an organization's assets, risks, and existing controls to identify areas that need improvement.
+
+I evaluated a variety of administrative, technical, and physical controls, including:
+
+- Least privilege
+- Separation of duties
+- Encryption
+- Password management
+- Disaster recovery
+- Backups
+- Intrusion detection
+- Physical security controls
+
+I also reviewed the organization's practices in relation to PCI DSS, GDPR, and SOC requirements.
+
+One of my biggest takeaways was that identifying a security gap is only part of the process. The assessment also needs to consider the risk 
+created by that gap and what controls could reasonably be implemented to reduce that risk.
+
+## Project File
+
+- Botium-Toys-Scenario.pdf
+- Control-and-Compliance-Checklist.pdf
+
+### Case Study Background
+
+This document summarizes the fictional Botium Toys environment and security posture provided for the activity. It includes the information used as the basis for my controls and compliance assessment.
+
+[View Case Study Background](Botium-Toys-Scenario.pdf)
+
+### Controls and Compliance Checklist
+
+The completed checklist documents my assessment of the organization's existing security controls, compliance considerations, and recommendations for addressing identified security gaps.
+
+[View Controls and Compliance Checklist](Controls-and-Compliance-Checklist.pdf)
+
+## Reflection
+
+I enjoyed this project because it focused on the relationship between security controls, business risk, and compliance rather than only the technical side of cybersecurity.
+
+My previous professional experience involved working in regulated environments where documentation, process compliance, and maintaining accurate records were important. 
+This exercise helped me see how those skills can apply within cybersecurity governance, risk, and compliance work.
+
+It also gave me practice looking at an organization more broadly: identifying what protections are already in place, determining where gaps exist, and recommending improvements based on risk.
+
+## More to Explore
+
+Areas I would like to continue developing include:
+
+- NIST Cybersecurity Framework (CSF)
+- NIST SP 800-53 security controls
+- Control testing and audit evidence
+- Risk registers and risk treatment
+- Third-party risk management
+- Security policy development
+- Mapping controls across multiple frameworks
