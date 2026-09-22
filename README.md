@@ -20,81 +20,26 @@ This repository documents my hands-on learning journey. Rather than only present
 Current projects include:
 # Current Progress
 
-## 🧪 Investigation Projects
+## 🧪 Hands-On Projects
 
 | Project | Status | Skills |
 |----------|--------|--------|
-| Linux Fundamentals | ✅ Complete | Linux, Bash, File System |
-| Windows Event Viewer | ✅ Complete | Windows Logs, Event IDs, Investigation |
-| Wireshark Analysis | ✅ Complete | Network Analysis, DNS, TCP/IP |
-| PowerShell Basics | ✅ Complete | PowerShell, Windows Administration |
-| Windows Firewall | ✅ Complete | Host Security, Firewall Rules |
-| Active Directory | ⏳ Planned | Identity Management, Authentication |
-| WireGuard VPN | ⏳ Planned | VPN, Networking, Encryption |
-| Nessus Essentials | ⏳ Planned | Vulnerability Management |
-| Microsoft Defender | ⏳ Planned | Endpoint Detection & Response |
-| Microsoft Sentinel | ⏳ Planned | SIEM, Log Analysis |
+| [Linux Fundamentals](Projects/01%20Linux%20Navigation) | ✅ Complete | Linux, File System, Permissions |
+| [Windows Event Viewer](Projects/02%20Windows%20Event%20Viewer) | ✅ Complete | Windows Logs, Event IDs, Investigation |
+| [Wireshark Network Analysis](Projects/03%20Wireshark) | ✅ Complete | Network Analysis, DNS, TCP/IP |
+| [PowerShell Fundamentals](Projects/04%20PowerShell) | ✅ Complete | PowerShell, Windows Administration |
+| [Windows Firewall](Projects/05%20Windows%20Firewall) | ✅ Complete | Host Security, Firewall Rules |
+| [Security Audit](Projects/06%20Security%20Audit) | ✅ Complete | Security Controls, Compliance, Risk Assessment |
+| [NIST CSF Incident Analysis](Projects/07%20NIST%20CSF%20Incident%20Analysis) | ✅ Complete | NIST CSF, Incident Response, DDoS Analysis |
 
 ---
 
-## 🛠 Tool Familiarization
+## 🔬 What's Next
 
-| Tool | Status | Focus |
-|------|--------|-------|
-| Jira | ⏳ Planned | Ticket Management |
-| ServiceNow | ⏳ Planned | Incident Management |
-| CrowdStrike Falcon | ⏳ Planned | Endpoint Detection |
-| Microsoft Defender Portal | ⏳ Planned | Alert Investigation |
-| Okta | ⏳ Planned | Identity & MFA |
-| CyberArk | ⏳ Planned | Privileged Access Management |
-| Huntress | ⏳ Planned | Managed Detection |
-| Cynet | ⏳ Planned | XDR |
-| Splunk / Wazuh | ⏳ Planned | SIEM |
+I'm continuing to build hands-on experience through small home lab projects focused on security analysis, system administration, and emerging security technologies.
 
----
-
-## 🎯 Challenge Labs
-
-| Platform | Status | Goal |
-|----------|--------|------|
-| TryHackMe | 🔄 In Progress | Security Fundamentals |
-| Blue Team Labs Online (BTLO) | ⏳ Planned | SOC Scenarios |
-| OverTheWire | 🔄 In Progress | Linux & Security Challenges |
-
----
-
-## 📋 Governance & Frameworks
-
-| Assessment | Status | Focus |
-|------------|--------|------|
-| CIS Controls Assessment | ⏳ Planned | Security Controls |
-| ISO 27001 Mini Audit | ⏳ Planned | Information Security Management |
-| NIST CSF Home Assessment | ⏳ Planned | Risk & Security Posture |
-| FAIR Risk Assessment | ⏳ Planned | Quantitative Risk Analysis |
-
----
-
-## 🤖 AI for Cybersecurity
-
-| Project | Status | Skills |
-|----------|--------|--------|
-| Prompt Engineering | ⏳ Planned | Prompt Design, AI Workflow |
-| Security Research with AI | ⏳ Planned | Verification, Source Validation |
-| AI-Assisted Log Analysis | ⏳ Planned | Windows Logs, Investigation |
-| AI-Assisted PowerShell | ⏳ Planned | Scripting, Automation |
-| AI-Assisted Incident Reports | ⏳ Planned | Technical Writing |
-| Building a Security GPT | ⏳ Planned | Custom Instructions, Knowledge Management |
-
----
-
-## Capstone Goals
-
-Windows Endpoint Investigation
-Use Event Viewer, PowerShell, Defender, Firewall and AI to investigate suspicious activity and produce an incident report.
-
-Small Business Security Assessment
-Assess a fictional 25-person company using NIST CSF, FAIR, CIS Controls and vulnerability scanning.
-
-SOC Analyst Simulation
-Investigate multiple alerts using Sentinel, Defender, Wireshark, PowerShell and document the complete investigation.
-
+| Project | Focus |
+|---------|-------|
+| OpenClaw Security Lab | AI Agent Security, Permissions, Risk & Governance |
+| Tsurugi Linux Lab | Digital Forensics, Linux, Security Tools |
+| Active Directory Home Lab | Identity & Access Management, Authentication, Windows Administration |
