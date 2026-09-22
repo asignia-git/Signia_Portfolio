@@ -1,0 +1,78 @@
+# NIST CSF Incident Analysis
+
+## Goal
+
+The goal of this project was to analyze a simulated cybersecurity incident using the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
+
+The scenario involved a distributed denial-of-service (DDoS) attack that disrupted a fictional organization's network through a flood of ICMP traffic.
+
+Using information gathered during the incident investigation, I applied the five NIST CSF functions—Identify, Protect, Detect, Respond, and Recover—to evaluate 
+the incident and develop a strategy for improving the organization's network security.
+
+This project was completed as part of the Google Cybersecurity Professional Certificate.
+
+## Skills Practiced
+
+- NIST Cybersecurity Framework
+- Incident analysis
+- Incident response planning
+- Network security
+- DDoS attack analysis
+- Firewall security
+- Network monitoring
+- IDS/IPS concepts
+- SIEM concepts
+- Security documentation
+
+## What I Learned
+
+This project helped me understand how a cybersecurity framework can provide structure when analyzing and responding to a security incident.
+
+Rather than treating an incident as a single technical problem, the NIST CSF encouraged me to consider multiple stages of security:
+
+- Identifying vulnerabilities and affected systems
+- Protecting assets by improving security controls
+- Detecting suspicious activity through monitoring
+- Responding to and containing incidents
+- Recovering systems and restoring normal operations
+
+The exercise also demonstrated how multiple security controls can work together. Firewall configuration, network monitoring, IDS/IPS, and centralized alert monitoring can 
+each contribute to detecting or limiting malicious network activity.
+
+## Project Files
+
+- DDoS-Incident-Scenario.pdf
+- NIST-CSF-Incident-Analysis.pdf
+
+### DDoS Incident Scenario
+
+This document summarizes the fictional DDoS incident provided for the activity and the security team's initial investigation and remediation efforts.
+
+[View DDoS Incident Scenario](DDoS-Incident-Scenario.pdf)
+
+### NIST CSF Incident Analysis
+
+This document contains my analysis of the incident using the Identify, Protect, Detect, Respond, and Recover functions of the NIST Cybersecurity Framework.
+
+[View NIST CSF Incident Analysis](NIST-CSF-Incident-Analysis.pdf)
+
+## Reflection
+
+This project helped me move beyond simply identifying what happened during a cybersecurity incident and think about how an organization can improve its overall security posture afterward.
+
+I found the framework useful because each function approaches the incident from a different perspective. The technical cause of an incident is important, but so are the organization's 
+ability to detect abnormal activity, communicate and respond effectively, restore operations, and reduce the likelihood or impact of a similar incident in the future.
+
+It also gave me additional practice documenting security findings and translating technical events into an organized response strategy.
+
+## More to Explore
+
+Areas I would like to continue developing include:
+
+- NIST Cybersecurity Framework 2.0
+- Incident response procedures
+- SIEM monitoring and alert investigation
+- Network traffic analysis
+- IDS/IPS technologies
+- DDoS detection and mitigation
+- Incident documentation and reporting
