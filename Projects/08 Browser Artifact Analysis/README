@@ -1,0 +1,53 @@
+# Tsurugi Digital Forensics – Browser Artifact Analysis
+
+## Skills Practiced
+- Digital forensics and browser artifact analysis
+- Tsurugi Linux navigation
+- Chrome/Chromium history analysis with Hindsight
+- Timeline reconstruction
+- Linux command-line navigation and troubleshooting
+- Domain and service identification
+- Evidence-based analysis
+- Distinguishing findings from assumptions
+
+## Lab Approach
+1. Launched Tsurugi Linux in VirtualBox and verified the system, network configuration, and internet connectivity.
+2. Explored Tsurugi's available DFIR tools and selected Hindsight for browser artifact analysis.
+3. Obtained a sample Chrome `History_EVIDENCE` database to use as forensic evidence.
+4. Prepared the evidence file and loaded it into Hindsight.
+5. Exported Hindsight's results and reviewed the recovered browser activity.
+6. Identified unfamiliar domains and researched their purpose for additional context.
+7. Reconstructed the order and timing of the user's browsing activity.
+8. Evaluated what conclusions could and could not be supported by the available evidence.
+
+## What I Learned
+- Tsurugi provides a large collection of tools specifically intended for digital forensics and incident response.
+- Hindsight can extract and organize Chrome browser artifacts into a readable timeline for investigation.
+- Even a small browser history artifact can reveal useful information about the services a user accessed and when.
+- Outside research can help provide context for unfamiliar domains, but it should remain separate from the evidence itself.
+- Interesting activity is not automatically suspicious activity.
+- Forensic conclusions should be limited to what the available evidence can actually support.
+
+## Project Files
+- [Full Lab Documentation](Tsurugi_Digital_Forensics.pdf)
+
+## Reflection
+This was my first time working with Tsurugi, and I can see why having a DFIR-focused environment would be useful. Hindsight made it fairly 
+easy to take a Chrome history database and turn it into something I could actually investigate.
+
+I also got some unexpected Linux troubleshooting practice after misspelling a directory name and spending much longer than I would like to admit figuring 
+out why my commands weren't working.
+
+My biggest takeaway from this lab was that finding evidence is only half of the investigation. I could determine which sites were visited, when they were visited, 
+and the order of the activity, but I did not have enough evidence to determine the user's intent. I need to be able to separate what the evidence proves from what I think may have happened.
+
+## More to Explore
+- Analyze a larger and more complete browser history dataset
+- Examine additional browser artifacts such as cookies, downloads, searches, and cached files
+- Explore more of Tsurugi's built-in forensic tools
+- Analyze file system and system log artifacts
+- Correlate multiple forensic artifacts to build a more complete timeline
+- Practice investigating a larger scenario where the goal is to determine what happened rather than analyzing a single artifact
+
+## Project Files
+- [Full Lab Documentation](./8-%20Tsurugi%20Digital%20Forensics.pdf)
