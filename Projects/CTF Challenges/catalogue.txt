@@ -1,0 +1,9 @@
+The librarian used a repeating-key cipher. Read the first letter of each line to find the key.
+
+Orbiting shelves hold the clue.
+Readers should examine beginnings.
+Between the lines, a word appears.
+Index cards remember everything.
+Tonight the key is yours.
+
+Ciphertext: tcbo{bbuff_voiea_awuf_sxmj}
